@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Conheça o Curso de Biomedicina da Universidade Federal do Paraná.">
+  <meta name="data-source" content="dados.json">
+  <title>O Curso de Biomedicina | UFPR</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main id="app" class="page-shell" aria-live="polite">
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero-inner">
+        <span id="hero-label" class="eyebrow">Biomedicina · UFPR</span>
+        <h1 id="page-title">O Curso de Biomedicina</h1>
+        <p id="page-subtitle" class="hero-subtitle"></p>
+      </div>
+    </section>
+
+    <section class="section intro-section">
+      <div class="section-heading">
+        <span class="section-kicker">Conheça o curso</span>
+        <h2 id="intro-title"></h2>
+      </div>
+      <p id="intro-text" class="lead"></p>
+      <div id="course-facts" class="facts-grid"></div>
+    </section>
+
+    <section class="section section-soft" aria-labelledby="formation-title">
+      <div class="section-heading">
+        <span class="section-kicker">Formação</span>
+        <h2 id="formation-title"></h2>
+        <p id="formation-intro" class="section-description"></p>
+      </div>
+      <div id="formation-cards" class="formation-grid"></div>
+    </section>
+
+    <section class="section split-section">
+      <article class="content-panel history-panel">
+        <span class="section-kicker">Trajetória</span>
+        <h2 id="history-title"></h2>
+        <p id="history-text"></p>
+        <div id="history-docs" class="document-list"></div>
+      </article>
+      <article class="content-panel activity-panel">
+        <span class="section-kicker">Profissão</span>
+        <h2 id="activity-title"></h2>
+        <p id="activity-text"></p>
+        <div id="activity-tags" class="tag-list"></div>
+        <p id="activity-note" class="note"></p>
+      </article>
+    </section>
+
+    <section class="section section-soft" aria-labelledby="links-title">
+      <div class="section-heading">
+        <span class="section-kicker">Acesse</span>
+        <h2 id="links-title"></h2>
+        <p id="links-text" class="section-description"></p>
+      </div>
+      <div id="academic-links" class="links-grid"></div>
+    </section>
+
+    <section class="section location-section" aria-labelledby="location-title">
+      <div>
+        <span class="section-kicker">Localização e contato</span>
+        <h2 id="location-title"></h2>
+        <strong id="location-place"></strong>
+        <p id="location-address"></p>
+      </div>
+      <div class="contact-actions">
+        <a id="phone-link" class="contact-link" href="#"></a>
+        <a id="email-link" class="contact-link" href="#"></a>
+      </div>
+    </section>
+
+    <div id="load-error" class="load-error" hidden>
+      Não foi possível carregar as informações do curso. Recarregue a página ou entre em contato com a Coordenação.
+    </div>
+  </main>
+  <script src="app.js" defer></script>
+</body>
+</html>

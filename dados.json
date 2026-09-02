@@ -1,0 +1,60 @@
+{
+  "versao": "1.0",
+  "atualizadoEm": "2026-09-02",
+  "pagina": {
+    "titulo": "O Curso de Biomedicina",
+    "subtitulo": "Formação científica, acadêmica e profissional em saúde e ciências biomédicas.",
+    "rotulo": "Biomedicina · UFPR"
+  },
+  "apresentacao": {
+    "titulo": "Biomedicina na UFPR",
+    "texto": "Implantado em 2010, o Curso de Biomedicina da Universidade Federal do Paraná oferece formação sólida em ciências biomédicas e biológicas, com inserção acadêmica em pesquisa científica e preparação para atuação a serviço da saúde e da ciência."
+  },
+  "dadosCurso": [
+    {"valor":"4 anos","rotulo":"Duração"},
+    {"valor":"Bacharelado","rotulo":"Grau"},
+    {"valor":"Integral","rotulo":"Manhã e tarde"},
+    {"valor":"30","rotulo":"Vagas anuais"},
+    {"valor":"Centro Politécnico","rotulo":"Setor de Ciências Biológicas"}
+  ],
+  "formacao": {
+    "titulo": "Como é a formação",
+    "introducao": "A formação reúne fundamentos das ciências biomédicas, vivência científica e preparação acadêmica para diferentes contextos de atuação.",
+    "cards": [
+      {"icone":"🔬","titulo":"Formação científica","texto":"A inserção em ambientes de pesquisa contribui para o desenvolvimento de uma formação científica e acadêmica desde os primeiros períodos."},
+      {"icone":"🧬","titulo":"Ciências biomédicas","texto":"A matriz curricular contempla fundamentos necessários à compreensão de processos celulares, fisiológicos e relacionados às ciências da saúde."},
+      {"icone":"🎓","titulo":"Pesquisa e docência","texto":"A formação também favorece a continuidade acadêmica e a atuação em pesquisa, docência e atividades laboratoriais."}
+    ]
+  },
+  "historico": {
+    "titulo": "Histórico do curso",
+    "texto": "Os primeiros esforços para criação do curso tiveram início em 2006, no Setor de Ciências Biológicas. A primeira turma ingressou em 2010.",
+    "documentos": [
+      {"titulo":"Autorização de funcionamento","texto":"Resolução nº 35/09 COUN","url":""},
+      {"titulo":"Reconhecimento pelo MEC","texto":"Portaria nº 427, de 28 de julho de 2014","url":"https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2014/10/Biomedicina-reconhecimento-Port427DOU31.07.20142.pdf"}
+    ]
+  },
+  "atuacao": {
+    "titulo": "Atuação do biomédico",
+    "texto": "A formação em Biomedicina permite atuação em diferentes campos relacionados às ciências biomédicas, biológicas e da saúde. A regulamentação profissional e as habilitações são definidas pelos órgãos competentes da profissão.",
+    "destaques": ["Análises laboratoriais", "Pesquisa científica", "Saúde", "Docência", "Biotecnologia e áreas correlatas"],
+    "observacao": "Para informações atualizadas sobre habilitações e exercício profissional, consulte o Conselho Federal e o Conselho Regional de Biomedicina."
+  },
+  "acessosTitulo": "Informações acadêmicas",
+  "acessosTexto": "Encontre rapidamente os principais conteúdos acadêmicos relacionados ao curso.",
+  "acessos": [
+    {"titulo":"Grade Curricular","texto":"Projeto pedagógico, matriz curricular e informações do curso.","url":"https://bio.ufpr.br/biomedicina/grade-curricular/"},
+    {"titulo":"Formas de Ingresso","texto":"Informações para quem deseja ingressar no curso.","url":"https://bio.ufpr.br/biomedicina/formas-de-ingresso/"},
+    {"titulo":"Grade Horária","texto":"Consulte a organização das disciplinas e horários.","url":"https://bio.ufpr.br/biomedicina/grade-horaria-3/"},
+    {"titulo":"Estágios","texto":"Orientações e procedimentos relacionados aos estágios.","url":"https://bio.ufpr.br/biomedicina/estagios/"},
+    {"titulo":"Trabalho de Conclusão de Curso","texto":"Informações e orientações sobre o TCC.","url":"https://bio.ufpr.br/biomedicina/trabalho-de-conclusao/"},
+    {"titulo":"Contato","texto":"Fale com a Coordenação do Curso de Biomedicina.","url":"https://bio.ufpr.br/biomedicina/contato/"}
+  ],
+  "localizacao": {
+    "titulo": "Onde o curso está",
+    "local": "Setor de Ciências Biológicas — Centro Politécnico",
+    "endereco": "Avenida Coronel Francisco H. dos Santos, nº 100 · Jardim das Américas · Curitiba — PR · CEP 81531-980",
+    "telefone": "+55 (41) 3361-1744",
+    "email": "biomedicina@ufpr.br"
+  }
+}
